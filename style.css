@@ -111,3 +111,28 @@ html {
     font-size: 1.2rem;
     font-weight: 600;
 }
+
+/* Results Page Styles */
+
+.results-posts-wrapper {
+    grid-row: 3;
+    grid-column: 1/-1;
+    width: 66vw;
+}
+
+.post {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.category {
+    color: #2660f3;
+    font-size: 1.4rem;
+    margin-bottom: 1.5rem;
+}
+
+.result-post-title a {
+    color: #535353;
+    text-decoration: none;
+    font-size: 1.8rem;
+}
