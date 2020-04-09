@@ -1,0 +1,35 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.content-wrapper {
+    display: grid;
+    justify-content: center;
+}
+
+.logo {
+    display: grid;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.logo img {
+    width: 100px;
+}
+
+.search-box-wrapper {
+    display: grid;
+    justify-content: center;
+}
+
+.recent-posts-wrapper {
+    display: grid;
+    justify-content: center;
+}
+
+.recent-posts {
+    display: flex;
+    justify-content: space-between;
+}
